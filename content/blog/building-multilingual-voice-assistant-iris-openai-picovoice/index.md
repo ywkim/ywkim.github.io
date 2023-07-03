@@ -122,7 +122,7 @@ We believe in the power of community and collaboration, and we're excited to wel
 
 To contribute to Iris, you can start by exploring the [code](https://github.com/ywkim/iris) and understanding how it works. If you have an idea for a new feature or improvement, feel free to open an issue on the GitHub repository to discuss it. We're always open to new ideas and feedback.
 
-We also encourage you to join our [Discord community](https://discord.gg/yourdiscordlink), where you can connect with other Iris users and contributors, share your ideas, and get help with any issues you might encounter.
+We also encourage you to join our [Discord community](https://discord.gg/3cWK9Qmv), where you can connect with other Iris users and contributors, share your ideas, and get help with any issues you might encounter.
 
 By contributing to Iris, you're not only helping to improve the project, but also becoming part of a community of people passionate about voice technology and AI. We can't wait to see what you'll bring to Iris.
 
