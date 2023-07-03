@@ -54,6 +54,20 @@ The first step in interacting with Iris is to get its attention, and we do this 
 
 To implement wake word detection, we're using the [Porcupine](https://picovoice.ai/products/porcupine/) library. Porcupine is a highly-accurate and lightweight wake word detection library that works on-device, meaning it doesn't need to send any data to the cloud. This is great for privacy and efficiency.
 
+Here's a snippet of the code that sets up the wake word listener in Iris:
+
+```python
+class PorcupineWakeWordListener:
+    def __init__(self, access_key, keyword_paths, model_path):
+        self.porcupine = pvporcupine.create(
+            access_key=access_key, keyword_paths=keyword_paths, model_path=model_path
+        )
+        audio_device_index = -1
+        self.recorder = PvRecorder(
+            device_index=audio_device_index, frame_length=self.porcupine.frame_length
+        )
+```
+
 One of the cool features of Porcupine is that it allows you to define your own custom wake words. This means you can personalize Iris to respond to a different name if you want! To do this, you'll need to use the [Picovoice Console](https://console.picovoice.ai/) to create and train a model for your custom wake word, and then replace the default model file in the Iris configuration with your new one. This is a powerful feature that allows you to customize Iris without having to modify the code.
 
 ## Voice Activity Detection and Transcription
