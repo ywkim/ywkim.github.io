@@ -1,5 +1,5 @@
 ---
-title: Join the Journey of Iris: Building a Multilingual Voice Assistant with OpenAI and Picovoice
+title: "Join the Journey of Iris: Building a Multilingual Voice Assistant with OpenAI and Picovoice"
 date: "2023-07-03T19:43:00+09:00"
 description: Dive into the creation of Iris, a multilingual voice assistant that combines OpenAI's GPT models and Picovoice's Porcupine for keyword detection. Discover how you can contribute to this unique blend of advanced AI capabilities and user-friendly interaction.
 ---
