@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Infinite Adventures`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Youngwook Kim`,
+      summary: `Stay Hungry, Stay Foolish - Embarking on Infinite Adventures with Curiosity and Courage`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Exploring the Boundless Horizons of Knowledge and Inspiration through Infinite Adventures.`,
+    siteUrl: `https://ywkim.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `ywkim`,
     },
   },
   plugins: [
@@ -118,7 +118,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
   ],
