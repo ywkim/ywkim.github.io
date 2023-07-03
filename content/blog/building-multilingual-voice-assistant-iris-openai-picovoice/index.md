@@ -6,7 +6,7 @@ description: Dive into the creation of Iris, a multilingual voice assistant that
 
 # Introduction
 
-Welcome to the journey of creating your own voice-activated AI assistant. This blog post will guide you through the process of setting up and customizing [Iris](https://github.com/your-github-account/iris), a simple yet powerful voice assistant built using Python and a few powerful libraries and APIs.
+Welcome to the journey of creating your own voice-activated AI assistant. This blog post will guide you through the process of setting up and customizing [Iris](https://github.com/ywkim/iris), a simple yet powerful voice assistant built using Python and a few powerful libraries and APIs.
 
 ![A man is relaxing on a couch, speaking to an AI voice assistant integrated into his smart home system.](./Picture_a_cozy_home_environment_in_the_evening._A_bcdb51fd-cf55-4007-a2b6-46b350eb8e4f.png)
 
