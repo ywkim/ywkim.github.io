@@ -37,7 +37,7 @@ const Seo = ({ description, title, children }) => {
       <meta property="og:type" content="website" />
       <link
         rel="author"
-        href={`https://github.com/site.siteMetadata?.social?.github`}
+        href={`https://github.com/${site.siteMetadata?.social?.github}`}
       />
       {children}
     </>
