@@ -19,6 +19,7 @@ module.exports = {
     social: {
       github: `ywkim`,
     },
+    googleSiteVerification: `zb9XaxnBCMP_0UmfwoaZBsUcY7EVRyj0S1WoFRiDPgA`,
   },
   plugins: [
     `gatsby-plugin-image`,

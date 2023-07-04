@@ -19,6 +19,7 @@ const Seo = ({ description, title, children }) => {
             social {
               github
             }
+            googleSiteVerification
           }
         }
       }
@@ -39,6 +40,12 @@ const Seo = ({ description, title, children }) => {
         rel="author"
         href={`https://github.com/${site.siteMetadata?.social?.github}`}
       />
+      {site.siteMetadata?.googleSiteVerification && (
+        <meta
+          name="google-site-verification"
+          content={site.siteMetadata.googleSiteVerification}
+        />
+      )}
       {children}
     </>
   )
