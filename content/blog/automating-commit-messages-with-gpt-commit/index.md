@@ -6,7 +6,7 @@ description: Explore the intersection of AI and software development with GPT-Co
 
 # Introduction and Understanding GPT-Commit
 
-In the rapidly evolving field of software development, the intersection of artificial intelligence (AI) and development has opened up new possibilities. One such innovation is GPT-Commit, a tool that leverages the power of AI to automate a crucial part of the development process - commit messages.
+In the rapidly evolving field of software development, the intersection of artificial intelligence (AI) and development has opened up new possibilities. One such innovation is [GPT-Commit](https://github.com/ywkim/gpt-commit), a tool that leverages the power of AI to automate a crucial part of the development process - commit messages.
 
 ## What is GPT-Commit?
 
