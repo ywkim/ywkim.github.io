@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Infinite Adventures Blog RSS Feed]]></title><description><![CDATA[Exploring the Boundless Horizons of Knowledge and Inspiration through Infinite Adventures.]]></description><link>https://ywkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Jul 2023 07:25:41 GMT</lastBuildDate><item><title><![CDATA[Enhancing Iris: Unleashing Potential with LangChain Integration]]></title><description><![CDATA[Introduction In the world of open-source projects, it's always exciting to see different technologies come together to create something new…]]></description><link>https://ywkim.github.io/enhancing-iris-with-langchain-integration/</link><guid isPermaLink="false">https://ywkim.github.io/enhancing-iris-with-langchain-integration/</guid><pubDate>Wed, 05 Jul 2023 03:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Infinite Adventures Blog RSS Feed]]></title><description><![CDATA[Exploring the Boundless Horizons of Knowledge and Inspiration through Infinite Adventures.]]></description><link>https://ywkim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Jul 2023 07:41:57 GMT</lastBuildDate><item><title><![CDATA[Enhancing Iris: Unleashing Potential with LangChain Integration]]></title><description><![CDATA[Introduction In the world of open-source projects, it's always exciting to see different technologies come together to create something new…]]></description><link>https://ywkim.github.io/enhancing-iris-with-langchain-integration/</link><guid isPermaLink="false">https://ywkim.github.io/enhancing-iris-with-langchain-integration/</guid><pubDate>Wed, 05 Jul 2023 03:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cc0239923626b726b05de1a458bf3405/3ceac/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVR42gGfAmD9ABUMBxgOCCATDCcXETIhGDIhGzIiHTIkITAlJjYvMDQvMzgxNSwvOTAyOS0sLzAoJT0pHTUeEwcEBQICBACTZkG4g1i7iF/DkGerfVq6iWa8jGmugmOieF5mST9iSD+SaFNmTkNnTkN2V0ZmRzlHMChFJRsrFREAAQcA05Zf/8aE/MmO/9eaz6h39MqR/9yh8cqU5LWAJxUMIxILpG9LUjEeUzMmfVtNXUZDRTM0LCEjQSEXBwQIAMaHVPy0c/i5f//Ij9OicvO/hf3Mku25gt6mcjAeGDYhGZdoTJNqVYlyapGCfoKBhUxecCIzRiogJB4NCACCUTK0c0i0dkvOjV+xelXOk2rapX7OmHO3iGg3LClOMiWDWT59dG5bgZhOhqKBwtV0mK8bQ2IjKTQfDAcAOx8PfE8rqXZHnmpDfVY8i2FKrnZaonZYhGpaOC0qVTYlZkIjYWNiW4ynW6TCa8rlhrTNMFp7JS89LRQNAB4OB3ZEI3pQL0AnGnxeRIxfSJtbQn1XR3RbUlQ2JVc4JXVMLW1RQGdmall6j014k193ik5NVB0bJCEPCwCmcT68jE48HhAOBgdsTTV2UztZQjdqTD57WkiLXkF9VDyMXEGra0VsSTdMOjdJOTgZEhQuISBAIhwYCwgA4plS97RifEMhFwkHFAYGEwYEOB0Qhk0ujlMzgEsvcUUubEUxiV1DkmFEd089Uzw3JyEmOB8cOBkQAwMGAOiXTOiUSYtAHCoRCREGBRoMCDokGFgzHl8zHFoxHEEmFzAfGScfISwuNz1FUTg4QSkjKyIbIioVExwNCgCCTiVtQR8jDgcYCwUNBgQLBAQhFA1FLR00IRUnGBAlFxAlGBIeGx4YIzIYLkIVIjATERUPDhMSCgsQCAanNc4U9EFslwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;A modern living room with a smart home system integrated with Iris.&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cc0239923626b726b05de1a458bf3405/f058b/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png&quot;
+        srcset=&quot;/static/cc0239923626b726b05de1a458bf3405/c26ae/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png 158w,
+/static/cc0239923626b726b05de1a458bf3405/6bdcf/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png 315w,
+/static/cc0239923626b726b05de1a458bf3405/f058b/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png 630w,
+/static/cc0239923626b726b05de1a458bf3405/40601/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png 945w,
+/static/cc0239923626b726b05de1a458bf3405/78612/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png 1260w,
+/static/cc0239923626b726b05de1a458bf3405/3ceac/Envision_a_modern_living_room_with_a_smart_home_s_9436a86b-e8fd-4604-81b0-65d4c2c1e1ca.png 1456w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In the world of open-source projects, it&apos;s always exciting to see different technologies come together to create something new and powerful. This is exactly what happened when I integrated LangChain, a Python library for building language model applications, into Iris, a multilingual voice assistant. The result is a more powerful and versatile voice assistant that can leverage the capabilities of LangChain&apos;s 17+ toolkits, including the ability to perform web searches, mathematical calculations, and more. This integration opens up a world of possibilities for developers and users alike, and I&apos;m excited to share it with you. If you&apos;re interested in contributing to this project, you can find Iris on &lt;a href=&quot;https://github.com/ywkim/iris&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Integration of Iris and LangChain&lt;/h2&gt;
 &lt;p&gt;Iris, a multilingual voice assistant, has been a useful tool for many users, providing a unique blend of advanced AI capabilities and user-friendly interaction. However, we saw an opportunity to enhance Iris&apos;s capabilities even further by integrating it with LangChain.&lt;/p&gt;
