@@ -72,6 +72,8 @@ Add the gpt-commit-message function to the git-commit-setup-hook to automaticall
 
 With these steps, you should have GPT-Commit installed and configured for use. Remember to replace "YOUR_OPENAI_API_KEY" and "YOUR_PREFERRED_MODEL_NAME" with your actual OpenAI API key and preferred model name.
 
+![Screenshot](https://github.com/ywkim/gpt-commit/raw/main/screenshots/magit-commit.png)
+
 # The Impact and Future of GPT-Commit
 
 GPT-Commit is not just a tool for automating commit messages. It represents a significant step towards integrating AI into the development process, offering unique value and inspiration for developers.
