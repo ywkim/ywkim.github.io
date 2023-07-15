@@ -30,16 +30,16 @@ OMGpt is not just a shell but a revolution in how we interact with command line 
 
 ### Setup and Installation
 
-Getting started with OMGpt is straightforward. After cloning the [repository](https://github.com/ywkim/omgpt), you can install it using Poetry:
+Getting started with OMGpt is straightforward. You can install it using pip:
 
 ```shell
-poetry install
+pip install omgpt
 ```
 
 To start using OMGpt, simply run:
 
 ```shell
-poetry run python omgpt.py
+omgpt
 ```
 
 ### Core Features
