@@ -27,7 +27,7 @@ Here, GPT-Commit identifies a bug fix, specifically a missing import in a TypeSc
 ### GPT-Commit for Feature Addition
 
 - **Original Commit**: "refactor(compiler): introduce block parsing in lexer" ([29aaded0c3](https://github.com/angular/angular/commit/29aaded0c3))
-- **GPT-Commit**: "feat(ml_parser): add parsing support for block groups and blocks"
+- **GPT-Commit**: "feat(compiler): add support for block syntax in lexer"
 
 In this example, GPT-Commit correctly identifies the change as a feature addition related to parsing support. Although the developer labeled it as a refactor, the essence of the change is captured accurately by GPT-Commit.
 
