@@ -1,10 +1,8 @@
 ---
-title: "OMGpt: Revolutionizing the Command-Line Experience with AI"
+title: "OMGpt: Simplifying the Command Line with the Power of AI"
 date: "2023-07-13T01:00:00+09:00"
 description: Discover OMGpt, an innovative AI-powered shell that lets you control your command line using natural language. Learn about its unique features, usage examples, and how it's transforming scripting and programming tasks.
 ---
-
-# OMGpt: Simplifying the Command Line with the Power of AI
 
 ## Introduction
 
